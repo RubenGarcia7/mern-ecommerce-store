@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.rating-icon i {
+  color: #f8e825;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+}
